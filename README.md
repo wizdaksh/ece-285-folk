@@ -1,2 +1,2 @@
 # ece-285-folk
-ECE 285 Archive
+An archive of completed and written ECE 285 homework, notes, practice exams, etc.
